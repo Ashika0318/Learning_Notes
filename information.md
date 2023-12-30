@@ -18,6 +18,11 @@
 4) Give a commit message and commit the change.
 5) Push the change to remote.
 
+# Command Prompt / Powershell Keywords
+
+- `cd ..` - Go to a previous folder.
+- `cd folderName` - go to the provided folder.
+
 # HTML
  
 1) To comment something
