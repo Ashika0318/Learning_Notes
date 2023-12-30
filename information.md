@@ -9,6 +9,7 @@
 ### Commands in git
 
 1) Clone - Clones the remote repository to our local machine
+    - Usage `git clone <repository URL>`
 
 ### Steps
 
