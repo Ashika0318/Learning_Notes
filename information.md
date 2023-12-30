@@ -13,9 +13,9 @@
 ### Steps
 
 1) Clone the Repository if you have created it in the github
-2) Make your change
-3) Stage needed changes
-4) Give a commit message and commit the change
+2) Make your change.
+3) Stage needed changes.
+4) Give a commit message and commit the change.
 5) Push the change to remote.
 
 # HTML
